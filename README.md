@@ -15,4 +15,5 @@ The required list of libraries to run the application is:
 - pip install pytesseract
 - pip install gdown
 
-Note: There is a version of the project in jupyter notebook with comments in Portuguese.
+Note: There is a version of the project in jupyter notebook with comments in Portuguese on this link: 
+https://colab.research.google.com/drive/1hrJATWcw9boarnxjtmzhAuEKjytNH6cu?usp=sharing
